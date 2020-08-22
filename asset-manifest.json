@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b1431d8.chunk.css",
-    "main.js": "/static/js/main.677ad329.chunk.js",
-    "main.js.map": "/static/js/main.677ad329.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.a636507f.chunk.js": "/static/js/2.a636507f.chunk.js",
-    "static/js/2.a636507f.chunk.js.map": "/static/js/2.a636507f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2a22371978c335708e3a3b23c464b82c.js": "/precache-manifest.2a22371978c335708e3a3b23c464b82c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9b1431d8.chunk.css.map": "/static/css/main.9b1431d8.chunk.css.map"
+    "main.css": "/reuseable-hooks/static/css/main.9b1431d8.chunk.css",
+    "main.js": "/reuseable-hooks/static/js/main.677ad329.chunk.js",
+    "main.js.map": "/reuseable-hooks/static/js/main.677ad329.chunk.js.map",
+    "runtime~main.js": "/reuseable-hooks/static/js/runtime~main.c3646f48.js",
+    "runtime~main.js.map": "/reuseable-hooks/static/js/runtime~main.c3646f48.js.map",
+    "static/js/2.a636507f.chunk.js": "/reuseable-hooks/static/js/2.a636507f.chunk.js",
+    "static/js/2.a636507f.chunk.js.map": "/reuseable-hooks/static/js/2.a636507f.chunk.js.map",
+    "index.html": "/reuseable-hooks/index.html",
+    "precache-manifest.d4a692a772a92772b1de25e9749b3d93.js": "/reuseable-hooks/precache-manifest.d4a692a772a92772b1de25e9749b3d93.js",
+    "service-worker.js": "/reuseable-hooks/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "/reuseable-hooks/static/css/main.9b1431d8.chunk.css.map"
   }
 }
